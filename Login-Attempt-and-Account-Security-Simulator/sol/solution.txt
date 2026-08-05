@@ -1,0 +1,25 @@
+LOGIN SECURITY REPORT
+
+Attempt 1
+Username Status: Incorrect
+PIN Status: Incorrect
+Login Result: Failed
+Remaining Attempts: 2
+Account Status: Account Active
+
+Attempt 2
+Username Status: Correct
+PIN Status: Incorrect
+Login Result: Failed
+Remaining Attempts: 1
+Account Status: Account Active
+
+Attempt 3
+Username Status: Incorrect
+PIN Status: Correct
+Login Result: Failed
+Remaining Attempts: 0
+Account Status: Account Locked
+
+Account Status: Account Locked
+Final Message: Account locked after 3 failed attempts.
