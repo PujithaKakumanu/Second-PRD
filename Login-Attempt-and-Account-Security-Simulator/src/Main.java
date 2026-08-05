@@ -6,15 +6,15 @@ public class Main {
         int correctPIN = 3456;
 
         // Attempt 1
-        String username1 = "Riya";
-        int pin1 = 1111;
+        String username1 = "Kavya";
+        int pin1 = 1234;
 
         // Attempt 2
-        String username2 = "Priya";
-        int pin2 = 9999;
-
+        String username2 = "Riya";
+        int pin2 = 1111;
+    
         // Attempt 3
-        String username3 = "Kavya";
+        String username3 = "Priya";
         int pin3 = 3456;
 
         int attempt = 1;
