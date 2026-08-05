@@ -1,3 +1,10 @@
+- Student Name: Pujitha Kakumanu
+- Email: kakumanupujitha52@gmail.com
+- Team Number: 8
+- GitHub Username: PujithaKakumanu
+- Assigned Requirement Number: 9
+- Project Title: Login-Attempt-and-Account-Security-Simulator
+
 ## Understanding of the Requirement
 
 The requirement is to create a Java program that simulates a login security system. The program should check a user's username and PIN using hard-coded values. The system should allow a maximum of three attempts, display the login status for each attempt, stop when login is successful, and lock the account after three failed attempts.
